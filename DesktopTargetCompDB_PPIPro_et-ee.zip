@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedDate="2020-07-07T01:05:57.1967682Z" Revision="1" SchemaVersion="1.2" Product="Desktop" BuildID="f9e033e8-a66e-de80-132f-8c8218cd941a" BuildInfo="vb_release.19041.1.191206-1406" OSVersion="10.0.19041.1" BuildArch="amd64" ReleaseType="Production" Type="Build" xmlns="http://schemas.microsoft.com/embedded/2004/10/ImageUpdate">
+  <Tags Type="Edition">
+    <Tag Name="Edition" Value="PPIPro" />
+    <Tag Name="Language" Value="et-ee" />
+    <Tag Name="UpdateType" Value="Canonical" />
+  </Tags>
+  <Features>
+    <Feature Type="DesktopMedia" FeatureID="PPIPro_et-ee" FMID="MSDE" Group="Microsoft">
+      <Dependencies>
+        <Feature FeatureID="Windows.Client.ShellComponents~~1.0" />
+        <Feature FeatureID="Language.Basic~et-ee~1.0" />
+        <Feature FeatureID="OneCoreUAP.OneSync~~1.0" />
+        <Feature FeatureID="Microsoft.Windows.MSPaint~~1.0" />
+        <Feature FeatureID="Microsoft.Windows.Notepad~~1.0" />
+        <Feature FeatureID="Microsoft.Windows.WordPad~~1.0" />
+        <Feature FeatureID="Microsoft.Windows.PowerShell.ISE~~1.0" />
+        <Feature FeatureID="App.StepsRecorder~~1.0" />
+        <Feature FeatureID="DirectX.Configuration.Database~~1.0" />
+        <Feature FeatureID="OpenSSH.Client~~1.0" />
+        <Feature FeatureID="MathRecognizer~~1.0" />
+      </Dependencies>
+      <Packages>
+        <Package ID="Microsoft-Windows-Client-LanguagePack-Package_et-ee~31bf3856ad364e35~amd64~et-ee~" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Foundation-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-EditionPack-PPIPro-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-EditionSpecific-PPIPro-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-EditionSpecific-PPIPro-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Client-Desktop-Required-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Client-Desktop-Required-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Client-Features-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Client-Features-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-EditionPack-PPIPro-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-RegulatedPackages-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-RegulatedPackages-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Not-Supported-On-LTSB-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft.ModernApps.Client.All" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft.ModernApps.Client.ppipro" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft.ModernApps.ClientN.All" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-UserExperience-Desktop-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-LanguageFeatures-Basic-et-ee-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package" PackageType="FeaturePackage" />
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~" PackageType="FeaturePackage" />
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~" PackageType="FeaturePackage" />
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~" PackageType="FeaturePackage" />
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~" PackageType="FeaturePackage" />
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-OneCore-DirectX-Database-FOD-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_OpenSSH-Client-Package" PackageType="FeaturePackage" />
+        <Package ID="amd64_Microsoft-Windows-TabletPCMath-Package" PackageType="FeaturePackage" />
+        <Package ID="PPIPro_et-ee_esd" PackageType="MetadataESD" />
+      </Packages>
+    </Feature>
+  </Features>
+  <Packages>
+    <Package ID="Microsoft-Windows-Client-LanguagePack-Package_et-ee~31bf3856ad364e35~amd64~et-ee~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="5E2lyzayfwwei3mvtv04Wse0SHjqkSopa9fjcg3kitI=" PayloadSize="19098476" Path="UUP\Desktop\editionpackages\et-ee\Client\Microsoft-Windows-Client-LanguagePack-Package_et-ee~31bf3856ad364e35~amd64~et-ee~.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Foundation-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="Nsb0MrGZ4dL6qCFkVKoxihnz3dNVROI+o3enAAVzEhM=" PayloadSize="21843" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Foundation-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionPack-PPIPro-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="g9K5PQDKtll5MP/8kQPbDNoglChDs3PbzhPlgzmMnXw=" PayloadSize="485081499" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-EditionPack-PPIPro-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionSpecific-PPIPro-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="5xHDKAdqrNngZpQy8hkIs3ae3764txWi35wKTVY8IlA=" PayloadSize="17555286" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-EditionSpecific-PPIPro-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionSpecific-PPIPro-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="3GB++y6Ziry+gGtdY8jo+L/o59I1BU+NmZYrHIUr/uU=" PayloadSize="216649" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-EditionSpecific-PPIPro-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Desktop-Required-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="6Ijhi0CFCiwnNWxa0PRYgupis07abXZi5Gr2xedvex4=" PayloadSize="754792086" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Desktop-Required-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Desktop-Required-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="z4tfktnCD2eCP+yKQo65uNQhnIohYPPtZG6lNhqQOKU=" PayloadSize="205703378" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Desktop-Required-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Features-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="n34V2ZBq9h0gVgslHWRMUVlRsHZXLuWkb6nksLE1gBQ=" PayloadSize="302010575" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Features-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Features-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="mW9neyM6n8dB/WfY0JQ0D9tLrEcAfueBm3zPgrqxxms=" PayloadSize="83624122" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Features-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionPack-PPIPro-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="dnHNDjW6x1Vd9QbvCHnB0Qvv2OHQj9aGbS7KqAZ4wDo=" PayloadSize="16482090" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-EditionPack-PPIPro-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-RegulatedPackages-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="EweDcvvcVdQ9JdngPXiqNTygiP3uHr0iC6ZK6VY+xs0=" PayloadSize="38436580" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-RegulatedPackages-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-RegulatedPackages-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="z6HB5HW29cqhyqSS4FBw+RfXg/9lMGh1A5cXRciOuJo=" PayloadSize="19686602" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-RegulatedPackages-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Not-Supported-On-LTSB-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="MWKC+RV6ja8duk5RzVCPo0PN1KHTQn1z0uM7YRFZhzo=" PayloadSize="28060" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Not-Supported-On-LTSB-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="kaIFg7A8i+Akc1bbYy/sBPhG4/O3Ge0Mnf6lU8brHKQ=" PayloadSize="28423715" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft.ModernApps.Client.All" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="drFMk7m/SHPHl2V/lGBr8SBxckFOIGF37XEFkWsWVTo=" PayloadSize="284731302" Path="UUP\Desktop\Apps\Microsoft.ModernApps.Client.All.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft.ModernApps.Client.ppipro" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="wJsjPdSQJ65R08oVqmXuRyqRyTpbagFDaW1LjDbdgOs=" PayloadSize="221060154" Path="UUP\Desktop\Apps\Microsoft.ModernApps.Client.ppipro.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft.ModernApps.ClientN.All" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="XmEuhPd1N9jhOvXPGlUvt5yeLLWmdkkQIYSp6ydtX2g=" PayloadSize="259096364" Path="UUP\Desktop\Apps\Microsoft.ModernApps.ClientN.All.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-UserExperience-Desktop-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="LGU1j7qTu6rcskdvrRJo1+lHdD52L+2nGbZvfRV/ouE=" PayloadSize="5368753" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-LanguageFeatures-Basic-et-ee-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="C4zwX/sZrrCY93/CDBHuUbDgiCJ9Q1lUpsx0g+jlsoU=" PayloadSize="6459414" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-LanguageFeatures-Basic-et-ee-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="j3JYuyZcOtRgvKABuGqQqWCs8Nouqh3snBIP4aSaCb8=" PayloadSize="3337687" Path="FeaturesOnDemand\neutral\cabs\Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="hEQdaB9HxWMsAtZNSdnC/Zs4psphaWNarqd9k3A/H9M=" PayloadSize="1947966" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="6/4i91uN4W5uRtiTs5Khgx+NeRU0amwdmHhd+N7W8PE=" PayloadSize="204240" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="vjGD8Ig5kpNEapxiEyBSP6neKBfOJowjW9/yUYWhNk0=" PayloadSize="928927" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="EvSAHmdsANA3XjtyfOqlEOs2IEfnmXx0bPaGWKvZka4=" PayloadSize="1113130" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="oBWPtF6GkEowm+LpI4tdD5he9DrsFGQzevuBhwBYX6c=" PayloadSize="294767" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-OneCore-DirectX-Database-FOD-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="Yelvy5dHVFQgJICtdYW3NlJy09oGgw5Wa8NRAFCsAJs=" PayloadSize="495034" Path="FeaturesOnDemand\neutral\cabs\Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_OpenSSH-Client-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="AE1KRiMwJwFyGELQnYKHu+RYWoCCs0eZ+tIPagrynyQ=" PayloadSize="1314377" Path="FeaturesOnDemand\neutral\cabs\OpenSSH-Client-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-TabletPCMath-Package" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="2+3nj9VO0xNN9+YkJipKBXfickayxt+zd6B4OZFQySI=" PayloadSize="6546269" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="PPIPro_et-ee_esd" InstalledSize="8227764396" Version="10.0.19041.1">
+      <Payload>
+        <PayloadItem PayloadHash="CmV2IiTzfgBR8gecxPZtb3aRxsk89H02vi9p5otdUT8=" PayloadSize="483686935" Path="MetadataESD\PPIPro_et-ee.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+  </Packages>
+</CompDB>
